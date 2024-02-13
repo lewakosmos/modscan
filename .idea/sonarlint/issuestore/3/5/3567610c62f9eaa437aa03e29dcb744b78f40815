@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ò¨Ó8ºİóœÚ1
+]	java:S125"<This block of commented-out lines of code should be removed.(åµÕ©úÿÿÿÿ8ÂİóœÚ1
+W
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8ÂİóœÚ1
+`
+java:S1128">Remove this unused import 'javax.xml.parsers.DocumentBuilder'.(ƒ”¯¹ùÿÿÿÿ8ÂİóœÚ1
+g
+java:S1128"ERemove this unused import 'javax.xml.parsers.DocumentBuilderFactory'.(»·±Ñüÿÿÿÿ8ÂİóœÚ1
+m
+java:S1128"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ8ÂİóœÚ1
+Z
+java:S1128	"8Remove this unused import 'java.awt.event.MouseAdapter'.( ÜÍÁûÿÿÿÿ8ÂİóœÚ1
+S
+java:S1128
+"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8ÂİóœÚ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÃİóœÚ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÃİóœÚ1
