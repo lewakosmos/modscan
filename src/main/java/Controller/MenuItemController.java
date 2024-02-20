@@ -11,9 +11,8 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 public class OpenController {
-    public void openListener(JFrame frame, JMenuItem item, String format)
+    public OpenController(JFrame frame, JMenuItem item, String format)
     {
-        //String path = "";
         JFileChooser fileChooser = new JFileChooser();
         FileNameExtensionFilter filter = new FileNameExtensionFilter("XML FILES", format);
         fileChooser.setFileFilter(filter);
